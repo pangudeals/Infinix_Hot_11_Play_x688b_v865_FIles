@@ -1,0 +1,13 @@
+sspm.img sspm_1 sspm_2
+tee.img tee1 tee2
+tkv.img tkv
+lk.img bootloader bootloader2
+gz.img gz1 gz2
+vbmeta_vendor.img vbmeta_vendor
+dtbo.img dtbo
+vbmeta_system.img vbmeta_system
+vbmeta.img vbmeta
+scp.img scp1 scp2
+md1img.img md1img
+spmfw.img spmfw
+preloader_raw.img preloader preloader2
